@@ -8,8 +8,8 @@ _Building secure, intelligent, and scalable software — one project at a time._
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Monoknows&color=blueviolet&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Monoknows?style=flat-square&color=blue)
 
 </div>
 
@@ -77,16 +77,16 @@ I'm a **Cum Laude graduate of Bachelor of Science in Information Technology (BSI
 
 ### 🚀 Featured Projects
 
-#### 🧠 [SafeHub](https://github.com/YOUR_GITHUB_USERNAME/SafeHub)
+#### 🧠 [SafeHub](https://safehub-lcup.uk)
 
 > A mental health support and assistance platform built to make wellness resources more accessible.
 
-- Designed accessible, user-centered features that promote mental wellness and emotional well-being
-- Prioritized **secure data management** to protect sensitive user information
-- Focused on **usability and accessibility** as core design principles
-- **Tech:** `React` `FastAPI` `MySQL` `REST APIs`
+-Designed and developed user interface pages to improve usability and user experience
+-Collaborated with the team to conceptualize and propose new system features and functionalities
+-Assisted in planning and structuring system workflows and user navigation
+-Engaged in team discussions to refine project requirements and improve overall system design
 
-#### 🤖 [Chloro](https://github.com/YOUR_GITHUB_USERNAME/Chloro)
+#### 🤖 [Chloro](https://github.com/Monoknows/Chloro)
 
 > A JARVIS-inspired AI assistant built to automate tasks and enhance productivity.
 
@@ -95,7 +95,7 @@ I'm a **Cum Laude graduate of Bachelor of Science in Information Technology (BSI
 - Designed to streamline everyday tasks through automation
 - **Tech:** `Python` `AI Integration` `APIs`
 
-#### ✅ [Task Manager](https://github.com/YOUR_GITHUB_USERNAME/Task-Manager)
+#### ✅ [Task Manager](https://github.com/Monoknows/Task-Management-app)
 
 > A full-stack task management application with real productivity features.
 
@@ -123,7 +123,7 @@ I'm actively deepening my expertise in these areas to grow into a well-rounded *
 
 ### 🎯 Career Goals
 
-I'm on a mission to become a **highly skilled Software Engineer**, **AI Engineer**, and **Cybersecurity Professional** — someone who can design secure systems, build intelligent applications, and contribute meaningfully to teams solving real-world problems. I aim to combine strong engineering fundamentals with emerging technologies like AI and cloud computing to build software that is **efficient, secure, and impactful**.
+I'm on a mission to become a **highly skilled Software Engineer**, **AI Engineer** — someone who can design secure systems, build intelligent applications, and contribute meaningfully to teams solving real-world problems. I aim to combine strong engineering fundamentals with emerging technologies like AI and cloud computing to build software that is **efficient, secure, and impactful**.
 
 ---
 
