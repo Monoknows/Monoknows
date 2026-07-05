@@ -2,7 +2,7 @@
 
 # Hi, I'm Jon Bernabe
 
-### Cum Laude BSIT Graduate | Aspiring Software Engineer | AI Enthusiast | Cybersecurity Learner
+### Cum Laude BSIT Graduate | Software Engineer | AI Enthusiast | Cybersecurity Learner
 
 _Building secure, intelligent, and scalable software — one project at a time._
 
@@ -14,10 +14,6 @@ _Building secure, intelligent, and scalable software — one project at a time._
 </div>
 
 ---
-
-### About Me
-
-I'm a **Cum Laude graduate of Bachelor of Science in Information Technology (BSIT)** based in the **Philippines 🇵🇭**, driven by curiosity and a genuine passion for building things that solve real problems.
 
 - Passionate about **Software Development**, **Full-Stack Engineering**, **Cybersecurity**, **Artificial Intelligence**, and **Cloud Computing**
 - A lifelong learner who thrives on turning new concepts into working code
@@ -75,37 +71,6 @@ I'm a **Cum Laude graduate of Bachelor of Science in Information Technology (BSI
 
 ---
 
-### Featured Projects
-
-#### [SafeHub](https://safehub-lcup.uk)
-
-> A mental health support and assistance platform built to make wellness resources more accessible.
-
--Designed and developed user interface pages to improve usability and user experience
--Collaborated with the team to conceptualize and propose new system features and functionalities
--Assisted in planning and structuring system workflows and user navigation
--Engaged in team discussions to refine project requirements and improve overall system design
-
-#### [Chloro](https://github.com/Monoknows/Chloro)
-
-> A JARVIS-inspired AI assistant built to automate tasks and enhance productivity.
-
-- Engineered an intelligent assistant capable of answering questions and holding conversational interactions
-- Built with a strong focus on **AI integration** and **extensibility** for future capabilities
-- Designed to streamline everyday tasks through automation
-- **Tech:** `Python` `AI Integration` `APIs`
-
-#### [Task Manager](https://github.com/Monoknows/Task-Management-app)
-
-> A full-stack task management application with real productivity features.
-
-- Built a responsive **React + Vite** frontend paired with a **FastAPI + SQLAlchemy** backend
-- Implemented **authentication**, full **CRUD operations**, filtering, and search functionality
-- Added **activity tracking** and a **dashboard analytics** view for user insights
-- **Tech:** `React` `Vite` `FastAPI` `SQLAlchemy` `SQL`
-
----
-
 ### Currently Learning
 
 <p>
@@ -130,14 +95,10 @@ I'm on a mission to become a **highly skilled Software Engineer**, **AI Engineer
 ### GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Monoknows&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Monoknows&theme=tokyonight&hide_border=true" height="165"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Monoknows&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Monoknows&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monoknows&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monoknows&theme=tokyo-night&hide_border=true" width="90%"/>
-
 </div>
 
 ---
@@ -146,9 +107,9 @@ I'm on a mission to become a **highly skilled Software Engineer**, **AI Engineer
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jon-bernabe-9676b6367/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonbernabe8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jon-portfolio-njs8.vercel.app)
 
 </div>
 
