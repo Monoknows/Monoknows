@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Jon Bernabe 👋
+# Hi, I'm Jon Bernabe
 
-### 🎓 Cum Laude BSIT Graduate | Aspiring Software Engineer | AI Enthusiast | Cybersecurity Learner
+### Cum Laude BSIT Graduate | Aspiring Software Engineer | AI Enthusiast | Cybersecurity Learner
 
 _Building secure, intelligent, and scalable software — one project at a time._
 
@@ -15,20 +15,20 @@ _Building secure, intelligent, and scalable software — one project at a time._
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 I'm a **Cum Laude graduate of Bachelor of Science in Information Technology (BSIT)** based in the **Philippines 🇵🇭**, driven by curiosity and a genuine passion for building things that solve real problems.
 
-- 🔭 Passionate about **Software Development**, **Full-Stack Engineering**, **Cybersecurity**, **Artificial Intelligence**, and **Cloud Computing**
-- 🌱 A lifelong learner who thrives on turning new concepts into working code
-- 🧩 Strong believer in clean architecture, secure design, and user-centered development
-- 🗣️ Fluent in **English** and **Filipino**
-- 💡 Known for a **problem-solving mindset**, **attention to detail**, and **fast adaptability** in new environments
-- 🤝 Collaborative team player with strong communication skills
+- Passionate about **Software Development**, **Full-Stack Engineering**, **Cybersecurity**, **Artificial Intelligence**, and **Cloud Computing**
+- A lifelong learner who thrives on turning new concepts into working code
+- Strong believer in clean architecture, secure design, and user-centered development
+- Fluent in **English** and **Filipino**
+- Known for a **problem-solving mindset**, **attention to detail**, and **fast adaptability** in new environments
+- Collaborative team player with strong communication skills
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Programming Languages**
 
@@ -75,9 +75,9 @@ I'm a **Cum Laude graduate of Bachelor of Science in Information Technology (BSI
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🧠 [SafeHub](https://safehub-lcup.uk)
+#### [SafeHub](https://safehub-lcup.uk)
 
 > A mental health support and assistance platform built to make wellness resources more accessible.
 
@@ -86,7 +86,7 @@ I'm a **Cum Laude graduate of Bachelor of Science in Information Technology (BSI
 -Assisted in planning and structuring system workflows and user navigation
 -Engaged in team discussions to refine project requirements and improve overall system design
 
-#### 🤖 [Chloro](https://github.com/Monoknows/Chloro)
+#### [Chloro](https://github.com/Monoknows/Chloro)
 
 > A JARVIS-inspired AI assistant built to automate tasks and enhance productivity.
 
@@ -95,7 +95,7 @@ I'm a **Cum Laude graduate of Bachelor of Science in Information Technology (BSI
 - Designed to streamline everyday tasks through automation
 - **Tech:** `Python` `AI Integration` `APIs`
 
-#### ✅ [Task Manager](https://github.com/Monoknows/Task-Management-app)
+#### [Task Manager](https://github.com/Monoknows/Task-Management-app)
 
 > A full-stack task management application with real productivity features.
 
@@ -106,7 +106,7 @@ I'm a **Cum Laude graduate of Bachelor of Science in Information Technology (BSI
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white" />
@@ -121,28 +121,28 @@ I'm actively deepening my expertise in these areas to grow into a well-rounded *
 
 ---
 
-### 🎯 Career Goals
+### Career Goals
 
 I'm on a mission to become a **highly skilled Software Engineer**, **AI Engineer** — someone who can design secure systems, build intelligent applications, and contribute meaningfully to teams solving real-world problems. I aim to combine strong engineering fundamentals with emerging technologies like AI and cloud computing to build software that is **efficient, secure, and impactful**.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Monoknows&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Monoknows&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monoknows&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Monoknows&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <div align="center">
 
@@ -153,5 +153,5 @@ I'm on a mission to become a **highly skilled Software Engineer**, **AI Engineer
 </div>
 
 <div align="center">
-  <i>Thanks for stopping by — always open to connecting, collaborating, and learning something new! 🚀</i>
+  <i>Thanks for stopping by — always open to connecting, collaborating, and learning something new! </i>
 </div>
