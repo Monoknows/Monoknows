@@ -2,7 +2,7 @@
 
 # Hi, I'm Jon Bernabe
 
-### Cum Laude BSIT Graduate | Software Engineer | AI Enthusiast | Cybersecurity Learner
+### Software Engineer | AI Enthusiast | Cybersecurity Learner
 
 _Building secure, intelligent, and scalable software — one project at a time._
 
